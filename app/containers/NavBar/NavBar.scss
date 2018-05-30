@@ -1,0 +1,25 @@
+$nav_color: #ebf4fb;
+$nav_color_1: #fff;
+
+.top_navbar{
+  background-color: $nav_color_1 !important;  
+}
+
+.top_logo_name{
+  color: #F37623 !important;
+  font-weight: 700;
+}
+
+.nav_bar {
+  color: #777;
+  text-decoration: none;
+}
+
+.nav_bar:hover {
+  text-decoration: none;
+}
+
+.nav_bar:focus {
+  text-decoration: none;
+}
+
